@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**frostbite2020/frostbite2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rafi-ardiansyah-088164208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gogones&style=flat-square&color=blue" alt=""/>
+</div>
+
+### :man_technologist: About Me :
+I am a Web Developer enthusiast
